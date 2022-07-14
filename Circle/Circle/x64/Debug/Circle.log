@@ -1,0 +1,4 @@
+﻿  Circle.cpp
+D:\LeranC++\Circle\Circle\Circle.cpp(21,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LeranC++\Circle\Circle\Circle.cpp(22,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Circle.vcxproj -> D:\LeranC++\Circle\x64\Debug\Circle.exe
